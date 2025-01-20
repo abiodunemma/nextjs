@@ -56,7 +56,7 @@ className='absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]'/>
 </div>
 </div>
 <div className='relative flex flex-1 items-start'>
-<div className='relative z-20 w-[268px] flex-col gap-8
+<div className='relative z-20 flex w-[268px] flex-col gap-8
 rounded-3xl bg-green-90 px-7  py-8'>
     <div className='flex flex-col'>
         <div className='flexBetween'>
@@ -72,6 +72,10 @@ height={24} />
 <div className='flex flex-col'>
     <p className='regular-16 text-gray-20'>Distance</p>
     <p className='bold-20 text-white'>173.28 mi</p>
+</div>
+<div className='flex flex-col'>
+    <p className='regular-16 text-gray-20'>Elevation</p>
+    <p className='bold-20 text-white'>32 km</p>
 </div>
 
         </div>
